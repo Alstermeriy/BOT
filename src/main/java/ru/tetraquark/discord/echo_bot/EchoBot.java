@@ -25,7 +25,7 @@ public class EchoBot implements IListener<MessageReceivedEvent>{
 	 * Ключ чат-бота, который нужно получить после регистрации бота
 	 * тут: https://discordapp.com/developers/applications/me
 	 */
-	public static final String ECHO_BOT_TOKEN = "";
+	public static final String ECHO_BOT_TOKEN = "6q4m268HQirM8NDqAEUPFzAPk69NT-f6";
 	
 	private IDiscordClient dscordClient;	// Сущность клиента discord
 	private boolean isConnected;
